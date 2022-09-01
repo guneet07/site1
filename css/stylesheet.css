@@ -1,0 +1,30 @@
+
+.marquee{
+	margin:0 auto !important;
+	padding:0;
+	width:850px;
+	}
+	
+.marquee .div{
+	margin:0 5px;
+	padding:0;
+	float:left !important;
+	width:160px !important;
+	height:160px !important;
+	
+	}
+	
+.gallery-border {
+
+padding:9px;
+
+}
+
+.gallery-products-names {
+font-family:  Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #FFFFFF; 
+line-height:27px;
+text-decoration: none; text-align:center; padding-bottom:5px;
+
+}

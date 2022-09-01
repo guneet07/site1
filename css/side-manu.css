@@ -1,0 +1,44 @@
+.main-area3{
+	padding:0;
+	line-height:16px;
+	text-align:justify;
+	min-height:150px;
+	
+}
+.accordion li{
+	color:#31B8DA;
+	margin:9px 0;
+}
+.accordion a{
+	color:#31B8DA;
+	font-weight:normal !important;
+	
+}
+
+.catagry{
+	margin: 0;
+padding: 3px 0;
+background: rgba(255, 255, 255, 0.54);
+	
+	
+	}
+	
+.catagry a{
+	margin: 2px 0 2px 20px !important;
+	padding: 8px 10px !important;
+	font-size: 14px !important;
+	text-decoration: none;
+	border-left: 1px solid #C0C0C0;
+
+	}
+	
+.catagry a:hover{
+	background:#E7E7E7;
+	padding-left:18px !important;
+	webkit-transition: .3s ease-in-out;
+-moz-transition: .3s ease-in-out;
+-ms-transition: .3s ease-in-out;
+-o-transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+
+	}

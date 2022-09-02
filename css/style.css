@@ -136,6 +136,8 @@
   width: 100% !important;
   max-width: 400px;
 }
+.right-bar{
+	max-width:380px;
 }
 @media screen and (max-width:767px){
   body{
